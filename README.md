@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rad4r
-- 👀 I’m interested in making weirdly interesting games
-- 🌱 I’m currently working as a freelance game developer
+- 👀 I’m interested in making weirdly interesting games and applications
+- 🌱 I’m currently working as a freelance developer
 - 💞️ I’m looking to collaborate on game related projects
 - 📫 How to reach me hanimohammad00@gmail.com
 
